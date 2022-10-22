@@ -1,0 +1,25 @@
+{
+    "title": "Contacts Database",
+    "logout": "Logout",
+    "search": "Search Contacts",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phoneNumber": "Phone Number",
+    "email": "Email",
+    "address": "Address",
+    "note": "Note",
+    "edit": "Edit",
+    "delete": "Delete",
+    "loginTitle": "Login",
+    "loginUsername": "Username",
+    "loginPassword": "Password",
+    "loginButton": "Login",
+    "loginLink": "Don't have an account? Register",
+    "registerTitle": "Create new account",
+    "registerEmail": "Email",
+    "registerButton": "Register",
+    "registerLink": "Already have an account? Login",
+    "editTitle": "Edit Contact",
+    "editButton": "Save"
+}
+  

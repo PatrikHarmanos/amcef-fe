@@ -1,0 +1,25 @@
+{
+    "title": "Databáza kontaktov",
+    "logout": "Odhlásiť sa",
+    "search": "Vyhľadávanie",
+    "firstName": "Meno",
+    "lastName": "Priezvisko",
+    "phoneNumber": "Tel. číslo",
+    "email": "Email",
+    "address": "Adresa",
+    "note": "Poznámka",
+    "edit": "Editovať",
+    "delete": "Zmazať",
+    "loginTitle": "Prihlásenie",
+    "loginUsername": "Používateľské meno",
+    "loginPassword": "Heslo",
+    "loginButton": "Prihlásiť sa",
+    "loginLink": "Nemáte účet? Zaregistrujte sa",
+    "registerTitle": "Vytvoriť účet",
+    "registerEmail": "Email",
+    "registerButton": "Registrovať sa",
+    "registerLink": "Máte účet? Prihláste sa",
+    "editTitle": "Editovať kontakt",
+    "editButton": "Uložiť"
+}
+  

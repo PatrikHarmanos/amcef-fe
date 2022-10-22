@@ -1,0 +1,8 @@
+$error-color: red;
+$basic-margin: 24px;
+
+.form-error {
+    color: $error-color;
+    margin-left: $basic-margin;
+    font-weight: 600;
+}

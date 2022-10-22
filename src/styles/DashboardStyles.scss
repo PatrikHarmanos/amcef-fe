@@ -1,0 +1,33 @@
+$hover-color: #c0daed;
+
+.dashboardContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .searchInput {
+        margin-top: 30px;
+    }
+
+    .tableContainer {
+        width: 80% !important;
+        margin-top: 30px;
+        margin-bottom: 50px;
+
+        .table-row {
+            &:hover {
+                background-color: $hover-color;
+            }
+        }
+    }
+}
+
+.editModal {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    background-color: white;
+    box-shadow: 24px;
+    padding: 20px;
+}
